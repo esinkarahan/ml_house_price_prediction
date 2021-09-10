@@ -1,4 +1,4 @@
-# ml_house_price_prediction
+# House price prediction
 Predict house prices by using advanced regression techniques
 
 In this project by using dataset from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), I tested
